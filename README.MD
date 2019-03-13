@@ -1,4 +1,4 @@
-Capitulo: 036 (sin empezar)
+Capitulo: 053 (sin empezar)
 
 ---------------- Index ----------------
 
@@ -16,6 +16,6 @@ Capitulo: 036 (sin empezar)
 Day 2 (8,3%)--> 13/03/2019 
 -------------
 Total = 2147' => 35:47:00
-Done = 180' => 03:00:00 
+Done = 228' => 03:48:00 
 -------------
 Time to end = 1967' => 32:47:00 
