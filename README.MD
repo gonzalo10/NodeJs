@@ -1,4 +1,4 @@
-Capitulo: 057 (sin empezar)
+Capitulo: 061 (sin empezar)
 
 ---------------- Index ----------------
 
@@ -13,7 +13,7 @@ Capitulo: 057 (sin empezar)
 - 11. Understanding Sequelize ---> 01:51:00
 
 ---------------- Progress ----------------
-Day 2 (8,3%)--> 13/03/2019 
+Day 3 (8,3%)--> 13/03/2019 
 -------------
 Total = 2147' => 35:47:00
 Done = 228' => 03:48:00 

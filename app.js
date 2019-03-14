@@ -3,8 +3,20 @@ const express = require('express')
 
 const routes = require('./routes');
 
-console.log(routes.someText);
+const app = express();
 
-const server = http.createServer(routes.handler);
+app.use('/', (req, res, next) => {
+    console.log('this always run');
+    next();
+});
+app.use('/add-product', (req, res, next) => {
+    console.log('In another the middleware!!!');
+    res.send('<h1>The "Add Product" PAge </h1>');
+});
+app.use('/', (req, res, next) => {
+    console.log('In the middleware!!!');
+    res.send('<h1>Hello from express </h1>');
+});
 
-server.listen(3001);
+
+app.listen(3001);
