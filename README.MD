@@ -1,10 +1,10 @@
-Capitulo: 066 (sin empezar)
+Capitulo: 076 (sin empezar)
 
 ---------------- Index ----------------
 
-- 3. Understanding the basics. ---> 01:33:14
-- 4. Improved Development Workflow and Debugging ---> 47:54
-- 5. Working with Express.js ---> 01:34:00
+- 3.  X Understanding the basics. ---> 01:33:14 
+- 4.  X Improved Development Workflow and Debugging ---> 47:54
+- 5.  X Working with Express.js ---> 01:34:00
 - 6. Working with Dynamic Content & Adding Templating Engines ---> 01:30:00
 - 7. The Model View Controller (MVC) ---> 44:00
 - 8. Optional: Enhancing the App ---> 36:00
@@ -14,9 +14,11 @@ Capitulo: 066 (sin empezar)
 
 Progress 
 ----------------
-- Day 3 (8,3%)--> 13/03/2019 
+- start: 05/03/2019
+----------------
+- Day 5 (15%)--> 17/03/2019 
 -------------
 - Total = 2147' => 35:47:00
-- Done = 228' => 03:48:00 
+- Done = 322' => 05:36:00 
 -------------
-- Time to end = 1967' => 32:47:00 
+- Time to end = 1825' => 30:41:00 
