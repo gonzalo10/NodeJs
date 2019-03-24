@@ -1,5 +1,5 @@
-Capitulo: 083 (04:20)
-
+Capitulo: 088 (00:00)
+handlebars and pug finished now with ejs
 ---------------- Index ----------------
 
 - 3.  X Understanding the basics. ---> 01:33:14 
