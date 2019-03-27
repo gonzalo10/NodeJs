@@ -1,6 +1,6 @@
 Chapter
 ----------------
-0120 (00:00)
+0134 (04:20)
 - handlebars and pug finished now with ejs
 ---------------- Index ----------------
 
@@ -10,7 +10,7 @@ Chapter
 - 6.  X Working with Dynamic Content & Adding Templating Engines ---> 01:30:00
 - 7.  X The Model View Controller (MVC) ---> 44:00
 - 8.  X Optional: Enhancing the App ---> 36:00
-- 9. Dynamic Routes & Advanced Models ---> 01:39:00
+- 9.  X Dynamic Routes & Advanced Models ---> 01:39:00
 - 10. SQL Introduction ---> 52:00
 - 11. Understanding Sequelize ---> 01:51:00
 - 12. Working with NoSQL & Using MongoDB ---> 02:18:00
@@ -20,9 +20,9 @@ Progress
 ----------------
 - start: 05/03/2019
 ----------------
-- Day 19 (25%)--> 24/03/2019 
+- Day 19 (27%)--> 26/03/2019 
 -------------
 - Total = 2147' => 35:47:00
-- Done = 492' => 08:10:00 
+- Done = 592' => 09:50:00 
 -------------
-- Time to end = 1655' => 27:34:00 
+- Time to end = 1525' => 25:24:00 
