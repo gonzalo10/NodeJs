@@ -1,6 +1,6 @@
 Chapter
 ----------------
-0162 (00:00)
+0172 (00:00)
 - handlebars and pug finished now with ejs
 ---------------- Index ----------------
 
@@ -12,7 +12,7 @@ Chapter
 - 8.  X Optional: Enhancing the App ---> 36:00
 - 9.  X Dynamic Routes & Advanced Models ---> 01:39:00
 - 10. X SQL Introduction ---> 52:00
-- 11. Understanding Sequelize ---> 01:51:00
+- 11. X Understanding Sequelize ---> 01:51:00
 - 12. Working with NoSQL & Using MongoDB ---> 02:18:00
 - 13. Working with Mongoose ---> 01:16:00
 
@@ -20,9 +20,9 @@ Progress
 ----------------
 - start: 05/03/2019
 ----------------
-- Day 19 (27%)--> 28/03/2019 
+- Day 26 (35%)--> 31/03/2019 
 -------------
 - Total = 2147' => 35:47:00
-- Done = 644' => 10:42:00 
+- Done = 755' => 12:35:00 
 -------------
-- Time to end = 1503' => 25:05:00 
+- Time to end = 1392' => 23:12:00 
